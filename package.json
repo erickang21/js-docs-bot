@@ -1,0 +1,43 @@
+{
+  "name": "cryptide",
+  "version": "1.0.0",
+  "engines": {
+    "node": "9.9.0"
+  },
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+    "repository": {
+    "type": "git",
+    "url": "git+https://github.com/The-r3al-sanjay/Cryptide.git"
+  },
+  "bugs": {
+    "url": "https://github.com/The-r3al-sanjay/Cryptide/issues"
+  },
+  "homepage": "https://github.com/The-r3al-sanjay/Cryptide#readme",
+  "author": "Sanjay",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "discordjs/discord.js",
+    "discord.js-commando": "discordjs/Commando",
+    "commando-provider-mongo": "1.1.1",
+    "mongodb": "3.0.5",
+    "superagent": "3.8.2",
+    "uws": "9.14.0",
+    "erlpack": "discordapp/erlpack",
+    "libsodium": "0.7.3",
+    "zlib-sync": "0.1.4",
+    "bufferutil": "3.0.4",
+    "canvas": "1.6.10",
+    "snekfetch": "^3.6.4",
+    "request": "^2.0.0",
+    "common-tags": "^1.7.2",
+    "request-promise": "^4.0.0",
+    "winston": "^2.0.0",
+    "ytdl-core": "^0.17.0",
+    "simple-youtube-api": "^3.0.0"
+  }
+}
+
